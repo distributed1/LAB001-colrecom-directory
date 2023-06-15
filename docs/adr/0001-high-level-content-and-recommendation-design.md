@@ -26,7 +26,7 @@ Considerations:
 * We want to avoid calculate the total score for a content in the content service; we will store each Recommendation and Content in their respective tables and trigger a domain event when they are created
 * The catalog would be responsive for now to calculate the avg Recommendation score and update the Content representation in its database
 
-![](../diagrams/adr0001.png)
+![](../diagrams/adr0001.drawio.png)
 
 ## Consequences
 
