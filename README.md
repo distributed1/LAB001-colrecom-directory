@@ -1,1 +1,5 @@
-# lab001_shop_catalog_use_cases_design
+# LAB001
+
+Use cases:
+* Store the product items
+* Visualize the product items
