@@ -1,0 +1,1 @@
+# lab001_shop_catalog_use_cases_design
