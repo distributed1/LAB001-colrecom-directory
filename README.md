@@ -1,5 +1,5 @@
 # LAB001
 
 Use cases:
-* Store the recommendations
-* Visualize the recommendations
+* Store the recommendations and content
+* Visualize the content with their calculated rank
