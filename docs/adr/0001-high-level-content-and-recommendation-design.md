@@ -8,7 +8,7 @@ proposed
 
 ## Context
 
-We are requested to build a headless platform to allow users to create content, visualize this content in the catalog and be able to recommend content with a simple 0-5 points score.
+We are requested to build a headless platform to allow users to create Content, visualize this Content in the Catalog and be able to Recommend a specific Content with a simple 0-5 points score.
 
 Our fictional scenario requires high availability and performance.  
 We expect 80/100 of reads vs. updates,
