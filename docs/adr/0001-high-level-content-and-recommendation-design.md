@@ -8,7 +8,8 @@ proposed
 
 ## Context
 
-We are requested to build a headless platform to allow users to create Content, visualize this Content in the Catalog and be able to Recommend a specific Content with a simple 0-5 points score.
+We are requested to build a headless platform to allow users to create Content, visualize this Content in the Catalog and be able to Recommend a specific Content with a simple 0-5 points score.  
+[See the Glossary for more information](https://github.com/distributed1/.github/blob/main/company/coolrecom.md).
 
 Our fictional scenario requires high availability and performance.  
 We expect 80/100 of reads vs. updates,
