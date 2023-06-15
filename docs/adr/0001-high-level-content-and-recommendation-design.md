@@ -8,13 +8,16 @@ proposed
 
 ## Context
 
+We are requested to build a headless platform to allow users to create content, visualize this content in the catalog and be able to recommend content with a simple 0-5 points score.
+
 Our fictional scenario requires high availability and performance.  
 We expect 80/100 of reads vs. updates,
 
 ## Decision
 
-We are choosing a CQRS distributed approach in this context.  
-We will count on a Content Management Service that will be responsive to manage the creation and update of the content and recommendations. This service will have a relational storage system.
+We are choosing a CQRS distributed approach.  
+We will count on a Content Management Service that will be responsive to manage the creation and update of the content and recommendations.  
+This service will have a relational storage system.
 
 The catalog will provide a calculated view of the content for the users. We will choose no-relational storage for this view.
 
